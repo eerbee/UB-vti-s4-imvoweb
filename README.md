@@ -4,4 +4,4 @@ REST API and data management website for our IMVO Android application for final 
 ## Member
 [M. Syahrul S](https://github.com/80cassava)\
 [M. Rayhan R](https://github.com/rayhanrizz)\
-[Fakhruddin Ar-Rozy](https://github.com/rozi020)\
+[Fakhruddin Ar-Rozy](https://github.com/rozi020)
